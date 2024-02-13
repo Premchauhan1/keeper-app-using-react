@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.4e52900d.js",
-    "index.html": "/index.html",
-    "main.4e52900d.js.map": "/static/js/main.4e52900d.js.map"
+    "main.js": "/Chatgpt_clone_using_react/static/js/main.4e52900d.js",
+    "index.html": "/Chatgpt_clone_using_react/index.html",
+    "main.4e52900d.js.map": "/Chatgpt_clone_using_react/static/js/main.4e52900d.js.map"
   },
   "entrypoints": [
     "static/js/main.4e52900d.js"
